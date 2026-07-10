@@ -52,15 +52,15 @@ const ayushDubey = {
 
 ### 🏅 Achievements & Certifications
 
-| Certificate | Achievement | Date |
-|---|---|---|
-| <a href="./assets/quasar-hackathon.png"><img src="./assets/quasar-hackathon.png" width="90"/></a> | 🏆 Top 60 Nationwide — Quasar 4.0 National Hackathon | Apr '26 – Jul '26 |
-| <a href="./assets/travelease-icicn2026.png"><img src="./assets/travelease-icicn2026.png" width="90"/></a> | 📄 Research Paper Presenter — "TRAVELEASE" at IC-ICN 2026 International Conference | Feb '26 – Jun '26 |
-| <a href="./assets/techconnect25-iitb.png"><img src="./assets/techconnect25-iitb.png" width="90"/></a> | 🖼️ Research Poster Presenter — IIT Bombay TechConnect'25 | Jun '23 – Jul '23 |
-| <a href="./assets/uk-india-ai-bootcamp.png"><img src="./assets/uk-india-ai-bootcamp.png" width="90"/></a> | 🇬🇧 Participant — UK–India Advanced AI Bootcamp (UK Government) | — |
-| <a href="./assets/aicte-pre-summit.png"><img src="./assets/aicte-pre-summit.png" width="90"/></a> | 🎓 Participant — AICTE AI Pre-Summit | — |
-| <a href="./assets/fullstack-data-ai-bootcamp.png"><img src="./assets/fullstack-data-ai-bootcamp.png" width="90"/></a> | 📜 Certificate — Full Stack Data & AI Bootcamp | — |
-| — | 📜 Certificate — PostgreSQL Bootcamp: Go From Beginner to Advanced | — |
+| Certificate | Achievement |
+|---|---|
+| <a href="./assets/quasar-hackathon.png"><img src="./assets/quasar-hackathon.png" width="90"/></a> | 🏆 Top 60 Nationwide — Quasar 4.0 National Hackathon |
+| <a href="./assets/travelease-icicn2026.png"><img src="./assets/travelease-icicn2026.png" width="90"/></a> | 📄 Research Paper Presenter — "TRAVELEASE" at IC-ICN 2026 International Conference |
+| <a href="./assets/techconnect25-iitb.png"><img src="./assets/techconnect25-iitb.png" width="90"/></a> | 🖼️ Research Poster Presenter — IIT Bombay TechConnect'25 |
+| <a href="./assets/uk-india-ai-bootcamp.png"><img src="./assets/uk-india-ai-bootcamp.png" width="90"/></a> | Participant — UK–India Advanced AI Bootcamp (UK Government) |
+| <a href="./assets/aicte-pre-summit.png"><img src="./assets/aicte-pre-summit.png" width="90"/></a> | 🎓 Participant — AICTE AI Pre-Summit |
+| <a href="./assets/fullstack-data-ai-bootcamp.png"><img src="./assets/fullstack-data-ai-bootcamp.png" width="90"/></a> | 📜 Certificate — Full Stack Data & AI Bootcamp |
+| <a href="./assets/postgresql-bootcamp.png"><img src="./assets/postgresql-bootcamp.png" width="90"/></a> | 📜 Certificate — PostgreSQL Bootcamp: Go From Beginner to Advanced |
 
 *Click any thumbnail to view the full certificate.*
 
