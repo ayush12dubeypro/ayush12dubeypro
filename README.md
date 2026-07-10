@@ -48,7 +48,7 @@
 | 💻 | **Software Development:** Passionate about designing and building scalable, efficient, and user-centric applications using modern development practices. |
 | 🤖 | **Areas of Interest:** Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Agentic AI, and Retrieval-Augmented Generation (RAG). |
 | ⚙️ | **Technical Expertise:** Python, Java, SQL, FastAPI, LangChain, LangGraph, TensorFlow, Scikit-learn, Vector Databases (FAISS & ChromaDB), Git, and Cloud Technologies (Azure & AWS). |
-| 🚀 | **Projects:** Developed production-grade AI applications, including an **Agentic RAG Platform** and an **AI-powered Travel Assistant**, focusing on scalable and intelligent solutions. |
+| 🚀 | **Technical Focus:** Developed production-grade AI applications, including an **Agentic RAG Platform** and an **AI-powered Travel Assistant**, focusing on scalable and intelligent solutions. |
 | 🌱 | **Currently Learning:** AI Agents, Multi-Agent Systems, MLOps, Cloud Computing, AI Infrastructure, and Production LLM Applications. |
 | 🎯 | **Career Objective:** Seeking opportunities as a **Software Engineer, AI/ML Engineer, Generative AI Engineer, or Data Scientist** to build impactful, scalable, and intelligent software solutions. |
 
