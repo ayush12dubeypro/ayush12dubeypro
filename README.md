@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/29886588/README.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Ayush%20Dubey&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Ayush%20Dubey&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20and%20Data%20Science&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://github.com/ayush12dubeypro">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science;Building+Agentic+RAG+Systems;LangChain+%7C+LangGraph+%7C+LlamaIndex;Turning+Data+into+Intelligent+Applications" alt="Typing SVG" />
