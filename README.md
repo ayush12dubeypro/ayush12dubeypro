@@ -34,8 +34,8 @@
     <img src="https://komarev.com/ghpvc/?username=ayush12dubeypro&label=Profile+Views&color=7dd3fc&style=flat-square" alt="Profile Views"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ayushaids/" target="_blank">
-    <img src="https://img.shields.io/github/followers/ayush12dubeypro?label=Followers&style=flat-square&color=7dd3fc" alt="Followers"/>
+   <a href="https://www.linkedin.com/in/ayushaids/" target="_blank">
+    <img src="https://img.shields.io/badge/Followers-1K%2B-7DD3FC?style=flat-square&logo=linkedin&logoColor=black" alt="Followers"/>
   </a>
 </p>
 
