@@ -9,7 +9,7 @@
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=black)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logo=briefcase&logoColor=black)](https://mail.google.com/mail/?view=cm&fs=1&to=ayushaids@gmail.com)
 
 <br/>
 
@@ -27,7 +27,7 @@ const ayushDubey = {
   title: "Artificial Intelligence & Data Science (AI & DS)",
   stack: {
     languages: ["Python", "SQL", "Java", "C", "C++"],
-    aiAndMl: ["Machine Learning", "Deep Learning", "NLP", "LLM Applications", "Retrieval-Augmented Generation (RAG)"],
+    AIML: ["Machine Learning", "Deep Learning", "NLP", "LLM Applications", "Retrieval-Augmented Generation (RAG)"],
     libraries: ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "Keras", "LangChain", "LlamaIndex", "Transformers"],
     databases: ["MySQL", "MongoDB", "FAISS", "ChromaDB"],
     tools: ["Git", "GitHub", "VS Code", "Power BI", "Tableau", "Google Looker Studio", "Joblib", "Pickle"],
@@ -50,10 +50,8 @@ const ayushDubey = {
 
 ---
 
-### 🏅 Achievements & Certifications
 
-| Certificate | Achievement |
-|---|---|
+
 ### 🏅 Achievements & Certifications
 
 | Certificate | Achievement |
