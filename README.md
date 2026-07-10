@@ -54,13 +54,38 @@ const ayushDubey = {
 
 | Certificate | Achievement |
 |---|---|
-| <a href="./assets/quasar-hackathon.png"><img src="./assets/quasar-hackathon.png" width="90"/></a> | 🏆 Top 60 Nationwide — Quasar 4.0 National Hackathon |
-| <a href="./assets/travelease-icicn2026.png"><img src="./assets/travelease-icicn2026.png" width="90"/></a> | 📄 Research Paper Presenter — "TRAVELEASE" at IC-ICN 2026 International Conference |
-| <a href="./assets/techconnect25-iitb.png"><img src="./assets/techconnect25-iitb.png" width="90"/></a> | 🖼️ Research Poster Presenter — IIT Bombay TechConnect'25 |
-| <a href="./assets/uk-india-ai-bootcamp.png"><img src="./assets/uk-india-ai-bootcamp.png" width="90"/></a> | 🎓 Participant — UK–India Advanced AI Bootcamp (UK Government) |
-| <a href="./assets/aicte-pre-summit.png"><img src="./assets/aicte-pre-summit.png" width="90"/></a> | 🎓 Participant — AICTE AI Pre-Summit |
-| <a href="./assets/fullstack-data-ai-bootcamp.png"><img src="./assets/fullstack-data-ai-bootcamp.png" width="90"/></a> | 📜 Certificate — Full Stack Data & AI Bootcamp |
-| <a href="./assets/postgresql-bootcamp.png"><img src="./assets/postgresql-bootcamp.png" width="90"/></a> | 📜 Certificate — PostgreSQL Bootcamp: Go From Beginner to Advanced |
+### 🏅 Achievements & Certifications
+
+<table>
+<tr>
+<td width="160"><img src="./assets/quasar-hackathon.png" width="150"/></td>
+<td valign="middle">🏆 <b>Top 60 Nationwide</b><br/>Quasar 4.0 National Hackathon</td>
+</tr>
+<tr>
+<td width="160"><img src="./assets/travelease-icicn2026.png" width="150"/></td>
+<td valign="middle">📄 <b>Research Paper Presenter</b><br/>"TRAVELEASE" at IC-ICN 2026 International Conference</td>
+</tr>
+<tr>
+<td width="160"><img src="./assets/techconnect25-iitb.png" width="150"/></td>
+<td valign="middle">🖼️ <b>Research Poster Presenter</b><br/>IIT Bombay TechConnect'25</td>
+</tr>
+<tr>
+<td width="160"><img src="./assets/uk-india-ai-bootcamp.png" width="150"/></td>
+<td valign="middle">🎓 <b>Participant</b><br/>UK–India Advanced AI Bootcamp (UK Government)</td>
+</tr>
+<tr>
+<td width="160"><img src="./assets/aicte-pre-summit.png" width="150"/></td>
+<td valign="middle">🎓 <b>Participant</b><br/>AICTE AI Pre-Summit</td>
+</tr>
+<tr>
+<td width="160"><img src="./assets/fullstack-data-ai-bootcamp.png" width="150"/></td>
+<td valign="middle">📜 <b>Certificate</b><br/>Full Stack Data & AI Bootcamp</td>
+</tr>
+<tr>
+<td width="160"><img src="./assets/postgresql-bootcamp.png" width="150"/></td>
+<td valign="middle">📜 <b>Certificate</b><br/>PostgreSQL Bootcamp: Go From Beginner to Advanced</td>
+</tr>
+</table>
 
 *Click any thumbnail to view the full certificate.*
 
@@ -137,10 +162,16 @@ AI travel assistant for itinerary generation, trip optimization, and personalize
 
 **Dev Tools & BI**
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode)
-![Power BI](https://img.shields.io/badge/Power%20BI-7DD3FC?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-7DD3FC?style=flat-square&logo=tableau&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-7DD3FC?style=flat-square&logo=looker&logoColor=black)
+### 🛠️ Dev Tools & BI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" width="48"/>
+  <img src="https://skillicons.dev/icons?i=github" width="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
+  <img src="./assets/logo/Microsoft-Power-Bi--Streamline-Svg-Logos.svg" width="48"/>
+  <img src="./assets/logo/icons8-tableau-software-48.png" width="48"/>
+  <img src="./assets/logo/Screenshot 2026-07-10 183216.png" width="48"/>
+</p>
 
 ---
 
