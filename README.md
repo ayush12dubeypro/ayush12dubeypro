@@ -116,7 +116,9 @@ AI travel assistant for itinerary generation, trip optimization, and personalize
 
 **AI / ML & Libraries**
 
-![AI/ML](https://skillicons.dev/icons?i=tensorflow,keras,numpy)
+![AI/ML](https://skillicons.dev/icons?i=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-7DD3FC?style=flat-square&logo=keras&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-7DD3FC?style=flat-square&logo=numpy&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-7DD3FC?style=flat-square&logo=pandas&logoColor=black)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-7DD3FC?style=flat-square&logo=scikitlearn&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-7DD3FC?style=flat-square&logo=langchain&logoColor=black)
