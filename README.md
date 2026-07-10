@@ -29,11 +29,14 @@
 
 <br>
 
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayush12dubeypro&color=7dd3fc&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/ayush12dubeypro?label=Followers&style=flat-square&color=7dd3fc" />
+  <a href="https://ayushdubey-portfolio.vercel.app/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ayush12dubeypro&label=Profile+Views&color=7dd3fc&style=flat-square" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ayushaids/" target="_blank">
+    <img src="https://img.shields.io/github/followers/ayush12dubeypro?label=Followers&style=flat-square&color=7dd3fc" alt="Followers"/>
+  </a>
 </p>
 
 </div>
