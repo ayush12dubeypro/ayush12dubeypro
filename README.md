@@ -112,20 +112,18 @@ AI travel assistant for itinerary generation, trip optimization, and personalize
 **Languages**
 
 ![Languages](https://skillicons.dev/icons?i=python,java,c,cpp)
-![SQL](https://img.shields.io/badge/SQL-7DD3FC?style=flat-square&logo=postgresql&logoColor=black)
 
-**AI / ML & Libraries**
 
-![AI/ML](https://skillicons.dev/icons?i=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-7DD3FC?style=flat-square&logo=keras&logoColor=black)
-![NumPy](https://img.shields.io/badge/NumPy-7DD3FC?style=flat-square&logo=numpy&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-7DD3FC?style=flat-square&logo=pandas&logoColor=black)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-7DD3FC?style=flat-square&logo=scikitlearn&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-7DD3FC?style=flat-square&logo=langchain&logoColor=black)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7DD3FC?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-7DD3FC?style=flat-square&logo=huggingface&logoColor=black)
-![NLP](https://img.shields.io/badge/NLP-7DD3FC?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-7DD3FC?style=flat-square)
+### 🤖 AI / ML & Libraries
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="58" title="TensorFlow" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="58" title="Keras" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="58" title="NumPy" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="58" title="Pandas" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="58" title="Scikit-learn" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="58" title="Transformers" />
+</p>
 
 **Database / Vector Stores**
 
