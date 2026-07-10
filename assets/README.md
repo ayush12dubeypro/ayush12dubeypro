@@ -59,7 +59,7 @@ const ayushDubey = {
 | <a href="./assets/uk-india-ai-bootcamp.png"><img src="./assets/uk-india-ai-bootcamp.png" width="90"/></a> | 🇬🇧 Participant — UK–India Advanced AI Bootcamp (UK Government) | — |
 | <a href="./assets/aicte-pre-summit.png"><img src="./assets/aicte-pre-summit.png" width="90"/></a> | 🎓 Participant — AICTE AI Pre-Summit | — |
 | <a href="./assets/fullstack-data-ai-bootcamp.png"><img src="./assets/fullstack-data-ai-bootcamp.png" width="90"/></a> | 📜 Certificate — Full Stack Data & AI Bootcamp | — |
-| — | 📜 Certificate — PostgreSQL Bootcamp: Go From Beginner to Advanced | — |
+| <a href="./assets/postgresql-bootcamp.png"><img src="./assets/postgresql-bootcamp.png" width="90"/></a> | 📜 Certificate — PostgreSQL Bootcamp: Go From Beginner to Advanced | — |
 
 *Click any thumbnail to view the full certificate.*
 
