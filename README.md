@@ -158,11 +158,11 @@ AI travel assistant for itinerary generation, trip optimization, and personalize
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush12dubeypro&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush12dubeypro&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="39%"/>
+
 
 <img src="https://streak-stats.demolab.com?user=ayush12dubeypro&theme=nord-dark&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="90%"/>
 
+[![View GitHub Profile](https://img.shields.io/badge/View%20Full%20GitHub%20Profile-7DD3FC?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayush12dubeypro)
 </div>
 
 ---
