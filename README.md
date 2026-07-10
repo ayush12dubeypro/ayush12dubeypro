@@ -152,24 +152,47 @@ AI travel assistant for itinerary generation, trip optimization, and personalize
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Experience
 
-<div align="center">
+### 🧠 Machine Learning Intern
 
+<table width="100%">
+<tr>
+<td><strong>Coding Arena</strong></td>
+<td align="right"><strong>Jan 2026 – Mar 2026</strong></td>
+</tr>
+</table>
 
-
-<img src="https://streak-stats.demolab.com?user=ayush12dubeypro&theme=nord-dark&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="90%"/>
-
-[![View GitHub Profile](https://img.shields.io/badge/View%20Full%20GitHub%20Profile-7DD3FC?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayush12dubeypro)
-</div>
+- Developed machine learning training content and mentored students on ML concepts and applications.
+- Guided learners through practical implementations of machine learning algorithms and projects.
 
 ---
 
-### 🏆 Trophies
+### 📈 Business Development Intern
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayush12dubeypro&theme=nord&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
-</div>
+<table width="100%">
+<tr>
+<td><strong>Zeex.ai (IIT Madras)</strong></td>
+<td align="right"><strong>May 2025 – Jul 2025</strong></td>
+</tr>
+</table>
+
+- Conducted market research and supported lead generation for AI-based solutions.
+- Assisted in client outreach, product positioning, and business development activities.
+
+---
+
+### ⚡ Intern
+
+<table width="100%">
+<tr>
+<td><strong>BEST Undertaking</strong></td>
+<td align="right"><strong>Jun 2024 – Aug 2024</strong></td>
+</tr>
+</table>
+
+- Worked on network planning and gained exposure to SCADA systems.
+- Learned about renewable hybrid power systems and power distribution operations.
 
 ---
 
