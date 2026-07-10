@@ -56,36 +56,15 @@ const ayushDubey = {
 |---|---|
 ### 🏅 Achievements & Certifications
 
-<table>
-<tr>
-<td width="160"><img src="./assets/quasar-hackathon.png" width="150"/></td>
-<td valign="middle">🏆 <b>Top 60 Nationwide</b><br/>Quasar 4.0 National Hackathon</td>
-</tr>
-<tr>
-<td width="160"><img src="./assets/travelease-icicn2026.png" width="150"/></td>
-<td valign="middle">📄 <b>Research Paper Presenter</b><br/>"TRAVELEASE" at IC-ICN 2026 International Conference</td>
-</tr>
-<tr>
-<td width="160"><img src="./assets/techconnect25-iitb.png" width="150"/></td>
-<td valign="middle">🖼️ <b>Research Poster Presenter</b><br/>IIT Bombay TechConnect'25</td>
-</tr>
-<tr>
-<td width="160"><img src="./assets/uk-india-ai-bootcamp.png" width="150"/></td>
-<td valign="middle">🎓 <b>Participant</b><br/>UK–India Advanced AI Bootcamp (UK Government)</td>
-</tr>
-<tr>
-<td width="160"><img src="./assets/aicte-pre-summit.png" width="150"/></td>
-<td valign="middle">🎓 <b>Participant</b><br/>AICTE AI Pre-Summit</td>
-</tr>
-<tr>
-<td width="160"><img src="./assets/fullstack-data-ai-bootcamp.png" width="150"/></td>
-<td valign="middle">📜 <b>Certificate</b><br/>Full Stack Data & AI Bootcamp</td>
-</tr>
-<tr>
-<td width="160"><img src="./assets/postgresql-bootcamp.png" width="150"/></td>
-<td valign="middle">📜 <b>Certificate</b><br/>PostgreSQL Bootcamp: Go From Beginner to Advanced</td>
-</tr>
-</table>
+| Certificate | Achievement |
+|---|---|
+| <a href="./assets/quasar-hackathon.png"><img src="./assets/quasar-hackathon.png" width="90"/></a> | 🏆 Top 60 Nationwide — Quasar 4.0 National Hackathon |
+| <a href="./assets/travelease-icicn2026.png"><img src="./assets/travelease-icicn2026.png" width="90"/></a> | 📄 Research Paper Presenter — "TRAVELEASE" at IC-ICN 2026 International Conference |
+| <a href="./assets/techconnect25-iitb.png"><img src="./assets/techconnect25-iitb.png" width="90"/></a> | 🖼️ Research Poster Presenter — IIT Bombay TechConnect'25 |
+| <a href="./assets/uk-india-ai-bootcamp.png"><img src="./assets/uk-india-ai-bootcamp.png" width="90"/></a> | 🎓 Participant — UK–India Advanced AI Bootcamp (UK Government) |
+| <a href="./assets/aicte-pre-summit.png"><img src="./assets/aicte-pre-summit.png" width="90"/></a> | 🎓 Participant — AICTE AI Pre-Summit |
+| <a href="./assets/fullstack-data-ai-bootcamp.png"><img src="./assets/fullstack-data-ai-bootcamp.png" width="90"/></a> | 📜 Certificate — Full Stack Data & AI Bootcamp |
+| <a href="./assets/postgresql-bootcamp.png"><img src="./assets/postgresql-bootcamp.png" width="90"/></a> | 📜 Certificate — PostgreSQL Bootcamp: Go From Beginner to Advanced |
 
 *Click any thumbnail to view the full certificate.*
 
@@ -97,7 +76,7 @@ const ayushDubey = {
 
 Production-grade Agentic RAG platform for enterprise document retrieval, built with LangGraph, FastAPI, and Qdrant.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ayush12dubeypro&repo=Production-Grade-Advanced-Rag&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117)](https://github.com/ayush12dubeypro/Production-Grade-Advanced-Rag)
+[![View Repository](https://img.shields.io/badge/View%20Repository-7DD3FC?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayush12dubeypro/Production-Grade-Advanced-Rag)
 
 | Layer | Technology |
 |---|---|
@@ -118,7 +97,7 @@ Production-grade Agentic RAG platform for enterprise document retrieval, built w
 
 AI travel assistant for itinerary generation, trip optimization, and personalized recommendations, powered by RAG.
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ayush12dubeypro&repo=safara-tourism&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117)](https://github.com/ayush12dubeypro/safara-tourism)
+[![View Repository](https://img.shields.io/badge/View%20Repository-7DD3FC?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ayush12dubeypro/safara-tourism)
 
 | Layer | Technology |
 |---|---|
