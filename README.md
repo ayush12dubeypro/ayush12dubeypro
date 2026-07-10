@@ -40,33 +40,18 @@
 
 ---
 
-### 👤 Who I Am
+## 👤 Professional Summary
 
-```typescript
-const ayushDubey = {
-  title: "Artificial Intelligence & Data Science (AI & DS)",
-  stack: {
-    languages: ["Python", "SQL", "Java", "C", "C++"],
-    AIML: ["Machine Learning", "Deep Learning", "NLP", "LLM Applications", "Retrieval-Augmented Generation (RAG)"],
-    libraries: ["NumPy", "Pandas", "Scikit-learn", "TensorFlow", "Keras", "LangChain", "LlamaIndex", "Transformers"],
-    databases: ["MySQL", "MongoDB", "FAISS", "ChromaDB"],
-    tools: ["Git", "GitHub", "VS Code", "Power BI", "Tableau", "Google Looker Studio", "Joblib", "Pickle"],
-    cloud: ["Microsoft Azure (Databricks)", "AWS"]
-  },
-  launchedProjects: [
-    "Enterprise-Grade Agentic RAG Platform",
-    "Safari – Intelligent AI Travel Assistant",
-    "Smart Grid Hardware System (Diploma Project)"
-  ],
-  coreConcepts: ["Electric Vehicles", "Integrated Circuits"],
-  certifications: [
-    "Full Stack Data & AI Bootcamp",
-    "PostgreSQL Bootcamp: Go From Beginner to Advanced"
-  ],
-  status: "Building production-grade Agentic RAG systems",
-  openTo: ["Full-time Roles", "AI/ML Collaborations", "Internships"]
-};
-```
+| | |
+|:---:|---|
+| 🎓 | **Education:** Final-year **B.Tech** student in **Artificial Intelligence & Data Science (AI & DS)** with a strong foundation in software development, data science, and problem-solving. |
+| 💻 | **Software Development:** Passionate about designing and building scalable, efficient, and user-centric applications using modern development practices. |
+| 🤖 | **Areas of Interest:** Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Agentic AI, and Retrieval-Augmented Generation (RAG). |
+| ⚙️ | **Technical Expertise:** Python, Java, SQL, FastAPI, LangChain, LangGraph, TensorFlow, Scikit-learn, Vector Databases (FAISS & ChromaDB), Git, and Cloud Technologies (Azure & AWS). |
+| 🚀 | **Projects:** Developed production-grade AI applications, including an **Agentic RAG Platform** and an **AI-powered Travel Assistant**, focusing on scalable and intelligent solutions. |
+| 🌱 | **Currently Learning:** AI Agents, Multi-Agent Systems, MLOps, Cloud Computing, AI Infrastructure, and Production LLM Applications. |
+| 🎯 | **Career Objective:** Seeking opportunities as a **Software Engineer, AI/ML Engineer, Generative AI Engineer, or Data Scientist** to build impactful, scalable, and intelligent software solutions. |
+
 
 ---
 
